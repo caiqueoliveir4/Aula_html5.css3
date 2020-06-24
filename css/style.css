@@ -4,6 +4,10 @@ body{
     margin-right: 200px;
 }
 
+header {
+    margin-top: 70px;
+}
+
 h1 {
     color: rgb(7, 243, 7);
     font-family: sans-serif;
@@ -15,4 +19,7 @@ h2 {
 }
 p {
     font-size: 18px;
+}
+img {
+    margin-bottom: 20px;
 }
