@@ -1,3 +1,16 @@
 body{
     background: rgb(107, 119, 190);
 }
+
+h1 {
+    color: rgb(7, 243, 7);
+    font-family: sans-serif;
+}
+
+h2 {
+    font-family: sans-serif;
+    color: greenyellow;
+}
+p {
+    font-size: 18px;
+}
